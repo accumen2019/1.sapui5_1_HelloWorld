@@ -1,8 +1,6 @@
 # 1.sapui5_1_HelloWorld
 
-<snippet>
-  <content><![CDATA[
-# ${1:Hello World}
+##1:Hello World
 Hello World program using eclipse IDE!
 
 ## Installation
@@ -40,6 +38,3 @@ TODO: Write credits
 
 ## License
 TODO: Write license
-]]></content>
-  <tabTrigger>readme</tabTrigger>
-</snippet>
