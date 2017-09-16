@@ -1,8 +1,11 @@
 # 1.sapui5_1_HelloWorld
 
+<snippet>
+  <content><![CDATA[
+# ${1:Hello World}
 Hello World program using eclipse IDE!
 
-_______________________________________________________________
+## Installation
 First setup your eclipse IDE using following steps as mentioned-
 _______________________________________________________________
 1.To make use of the UI Development ToolKit for HTML5 you first need to have a supported version of Eclipse installed on your computer. The Eclipse Mars or Luna version is recommended.
@@ -19,7 +22,24 @@ Copy the URL https://tools.hana.ondemand.com/luna and paste it in the **Work wit
 
 4.At the end of the installation, you will be asked to restart Eclipse. Confirm the dialog with Yes to restart Eclipse immediately.
 
-
-_______________________________________________________________
-Program Description:
+##Program Description:
 create a sapui5 application project, select sap.m library & do not create an initial view as inside index.html we are simply creating a text and placing it in the DOM to display Hello World!
+
+## Contributing
+1. Fork it!
+2. Create your feature branch: `git checkout -b my-new-feature`
+3. Commit your changes: `git commit -am 'Add some feature'`
+4. Push to the branch: `git push origin my-new-feature`
+5. Submit a pull request :D
+
+## History
+TODO: Write history
+
+## Credits
+TODO: Write credits
+
+## License
+TODO: Write license
+]]></content>
+  <tabTrigger>readme</tabTrigger>
+</snippet>
