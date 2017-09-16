@@ -1,6 +1,6 @@
 # 1.sapui5_1_HelloWorld
 
-##1:Hello World
+## Hello World
 Hello World program using eclipse IDE!
 
 ## Installation
@@ -20,7 +20,7 @@ Copy the URL https://tools.hana.ondemand.com/luna and paste it in the **Work wit
 
 4.At the end of the installation, you will be asked to restart Eclipse. Confirm the dialog with Yes to restart Eclipse immediately.
 
-##Program Description:
+## Program Description:
 create a sapui5 application project, select sap.m library & do not create an initial view as inside index.html we are simply creating a text and placing it in the DOM to display Hello World!
 
 ## Contributing
